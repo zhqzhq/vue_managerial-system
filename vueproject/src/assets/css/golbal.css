@@ -1,0 +1,18 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+.el-pagination {
+  margin-top: 20px;
+}
+.ql-editor {
+  min-height: 300px;
+}
